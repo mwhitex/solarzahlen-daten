@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "Wenn Sie diese Daten nutzen, zitieren Sie bitte wie folgt / If you use this dataset, please cite it as below."
+type: dataset
+title: "Photovoltaik pro Gemeinde in Deutschland (Marktstammdatenregister, Stand 02.10.2026)"
+authors:
+  - family-names: "Mancera Villa"
+    given-names: "Javier"
+version: "2026-10-02"
+date-released: "2026-10-02"
+license: DL-DE-BY-2.0
+url: "https://solarzahlen.de/presse"
+repository-code: "https://github.com/mwhitex/solarzahlen-daten"
+keywords: [Photovoltaik, Solar, Marktstammdatenregister, Gemeinden, Deutschland, Bundesnetzagentur, open data, solar PV, Germany]

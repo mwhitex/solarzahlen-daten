@@ -1,0 +1,16 @@
+{
+  "upload_type": "dataset",
+  "title": "Photovoltaik pro Gemeinde in Deutschland (Marktstammdatenregister, Stand 02.10.2026)",
+  "creators": [{"name": "Mancera Villa, Javier"}],
+  "description": "<p>Photovoltaik-Bestand aller 10.759 Gemeinden in Deutschland aus dem Marktstammdatenregister der Bundesnetzagentur (Gesamtdatenexport vom 02.10.2026): Einheiten in Betrieb, kWp, Balkonkraftwerke, Speicher, Anlagen je 1.000 Einwohner und Zubau Januar–Juli 2026 gegenüber 2025. Gemeinde-, Kreis- und Länderseiten auf <a href=\"https://solarzahlen.de\">solarzahlen.de</a>; Live-Datei: <a href=\"https://solarzahlen.de/daten/bestand\">solarzahlen.de/daten/bestand</a>.</p><p>Quelle: Marktstammdatenregister, Bundesnetzagentur, dl-de/by-2-0. Daten geändert: Aggregation nach Gemeinde, Kreis und Land. Unabhängiges Projekt.</p>",
+  "access_right": "open",
+  "license": "dl-de-by-2.0",
+  "language": "deu",
+  "version": "2026-10-02",
+  "keywords": ["Photovoltaik", "Solar", "Marktstammdatenregister", "Gemeinden", "Deutschland", "solar PV", "Germany", "open data"],
+  "related_identifiers": [
+    {"identifier": "https://solarzahlen.de/presse", "relation": "isSupplementTo", "scheme": "url"},
+    {"identifier": "https://solarzahlen.de/methodik", "relation": "isDocumentedBy", "scheme": "url"},
+    {"identifier": "https://www.marktstammdatenregister.de/MaStR/Datendownload", "relation": "isDerivedFrom", "scheme": "url"}
+  ]
+}
